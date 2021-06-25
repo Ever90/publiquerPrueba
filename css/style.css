@@ -33,7 +33,7 @@ a.nav-link:hover {
 }
 
 .btn-custom {
-   border: 1.5px solid #fff;
+  /* border: 1.5px solid #fff;*/
    border-radius: 50px;
    color: #fff;
    background: none;
@@ -44,11 +44,11 @@ a.nav-link:hover {
 }
 
 .btn-custom:hover {
-   /*background: #FD3323;*/
-   background: navy;
+   background: #f5f6f7;
+  /* background: navy;*/
    /*border: 1.5px solid #FD3323;*/
    border: navy;
-   color: #fff;
+   color: rgb(27, 8, 112);
 }
 
 .navbar-fixed {
