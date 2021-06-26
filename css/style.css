@@ -29,7 +29,7 @@ header {
 
 a.nav-link:hover {
    padding-bottom: 3px;
-   border-bottom: 2px solid navy;
+   border-bottom: 2px solid white;
 }
 
 .btn-custom {
